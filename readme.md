@@ -23,5 +23,4 @@
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white">
         <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black"> 
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Jira-181717?style=for-the-badge&amp;logo=Jira&amp;logoColor=white">
 </div>
