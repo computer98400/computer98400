@@ -1,7 +1,7 @@
 
 # Hi, i'm Seol
 
-:rocket: Experience :rocket: 
+## :rocket: Experience :rocket:
 2021.07~ Samsung Software Academy For Youth<br>
 2020.09~ 2021.03 (주)[블랜딩](http://blending-developer.com/) 아르바이트<br>
 
