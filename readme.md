@@ -6,7 +6,7 @@
 
 ### :rocket: Experience
 2022.07~ 한국IT직업전문학교 Linux/클라우드 교육([Itcen](http://www.itcen.co.kr/) 직무 교육)<br>
-2021.07~ 2022.06 Samsung Software Academy For Youth<br>
+2021.07~ 2022.06 [Samsung Software Academy For Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)<br>
 2020.09~ 2021.03 (주)[블랜딩](http://blending-developer.com/) 아르바이트<br>
 
 
